@@ -34,8 +34,9 @@ GeoLLaVA 1.0 是一个基于 LLaVA（Large Language and Vision Assistant）的�
 ### 训练数据准备
   `--data_dir /GeoLLaVA1.0/datasets `
 - 街景视觉-指令跟随数据：GeoLLaVA_Instruct1054.json
-- 街景图像（训练）：train_images.zip
-- 街景图像（测试）：train_images1k.zip
+- 街景图像（训练）：./datasets/train_images
+- 街景图像（测试）：./datasets/train_images1k
+- 区域街景图像： ./datasets/London.db
 - 指令（可自主修改）：query.txt
 - 测试图像真实标注：test1k_gt.xlsx
 - 转换全景图脚本：
