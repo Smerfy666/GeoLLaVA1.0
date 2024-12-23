@@ -1,0 +1,23 @@
+elements:
+Infer the elements present in the scene based on this image.
+Analyze the elements and their types present in this image scene.
+Describe the elements that appear in this image scene.
+By analyzing the images, list the scene elements within them.
+type:
+Infer the type of scene in the image based on this image.
+Provide inferences about the type of scene in a given image.
+Infer the type of scene represented by the image.
+Analyze the scene types in a given image.
+What type of scene is displayed in the image?
+building:
+Provide a detailed description of the building details in the given image.
+Conduct a comprehensive and detailed analysis of the detailed features of buildings in the image.
+Elaborate in great detail on the building details in the given image content.
+Use rich descriptive narratives to depict the details of buildings in the image.
+Explain the building details in the image through descriptive explanations.
+spatial:
+Provide a detailed description of the spatial relationships between various elements in the image scene.
+Provide a detailed description of the spatial relationships between various elements in the scene of a given image.
+Explain in detail the spatial relationships between the various elements in the image scene you see.
+Conduct a comprehensive and detailed analysis of the spatial relationships between various elements of the scene in the image.
+Use rich descriptive explanations to explain the spatial relationships between various elements of the scene in the image.
